@@ -1,0 +1,53 @@
+@media only screen and (max-width: 600px) {
+        
+
+}
+.badge{
+    font-family: sans-serif;
+    font-size: 75% ;
+    font-weight: 600;
+    text-align: center;
+    padding: 0.35556rem 0.71111rem;
+    border-radius: 0.25rem;
+    display:inline-block;
+}
+.badge-soft-primary{
+    color:#1c4f93 ;
+    background-color:  #d5e5fa;
+    
+}
+.badge-soft-secondary{
+    color:#7d899b ;
+    background-color:  #e3e6ea;
+
+}
+.badge-soft-success{
+    color:#00864e ;
+    background-color:  #ccf6e4;
+
+}
+.badge-soft-info{
+    color:#1978a2 ;
+    background-color:  #d4f2ff;
+
+}
+.badge-soft-warning{
+    color:#c46632 ;
+    background-color:  #fde6d8;
+
+}
+.badge-soft-danger{
+    color:#932338 ;
+    background-color:  #fad7dd;
+
+}
+.badge-soft-light{
+    color:#9fa0a2;
+    background-color:  #fefeff;
+
+}
+.badge-soft-dark{
+    color:#070f19 ;
+    background-color:  #ced1d4;
+
+}
